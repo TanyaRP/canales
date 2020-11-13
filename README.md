@@ -29,8 +29,7 @@ https://cootv.cootel.com.ni/streams/d/SSLCH23-HD-HOV/playlist.m3u8
 https://cootv.cootel.com.ni/streams/d/SSLCH39-HD-JXF/playlist.m3u8
 #EXTINF:-14, Canal 49 Pixel Channel
 https://edge1o.live.opencaster.com/caster/dsHpssoaCzoa.m3u8
-#EXTINF:-1,FOX FHD_
-http://thex.tv:57999/juanlopez/juanlopez/384
+v
 #EXTINF:-1,FOX ACTION FHD_
 http://thex.tv:57999/juanlopez/juanlopez/386
 #EXTINF:-1,FOX CLASSIC FHD_
@@ -62,18 +61,22 @@ http://thex.tv:57999/juanlopez/juanlopez/485
 #EXTINF:-1,ANIMAL PLANET  FHD/
 http://thex.tv:57999/juanlopez/juanlopez/542
 http://thex.tv:57999/juanlopez/juanlopez/545
-#EXTINF:-1,DISCOVERY CHANNEL HD/
-http://thex.tv:57999/juanlopez/juanlopez/546
+#EXTINF:-1,DISCOVERY CHANNEL SD/
+http://thex.tv:57999/juanlopez/juanlopez/547
 #EXTINF:-1,DISCOVERY HH HD/
 http://thex.tv:57999/juanlopez/juanlopez/552
-#EXTINF:-1,DISCOVERY ID FHD/
-http://thex.tv:57999/juanlopez/juanlopez/554
+#EXTINF:-1,DISCOVERY ID SD/
+http://thex.tv:57999/juanlopez/juanlopez/556
+#EXTINF:-1,TLC SD/
+http://thex.tv:57999/juanlopez/juanlopez/583
 #EXTINF:-1,DISCOVERY SCINENCE FHD/
 http://thex.tv:57999/juanlopez/juanlopez/557
 #EXTINF:-1,H2 HD/
 http://thex.tv:57999/juanlopez/juanlopez/571
 #EXTINF:-1,HISTORY HD/
 http://thex.tv:57999/juanlopez/juanlopez/574
+#EXTINF:-1,NATGEO WILD SD/
+http://thex.tv:57999/juanlopez/juanlopez/580
 #EXTINF:-1,ES_TVE 24H
 http://thex.tv:57999/juanlopez/juanlopez/1242
 #EXTINF:-1 tvg-id="" tvg-name="24/7 JUEGO DE TRONOS" tvg-logo="" group-title="24/7",24/7 JUEGO DE TRONOS
