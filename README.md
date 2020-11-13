@@ -29,7 +29,8 @@ https://cootv.cootel.com.ni/streams/d/SSLCH23-HD-HOV/playlist.m3u8
 https://cootv.cootel.com.ni/streams/d/SSLCH39-HD-JXF/playlist.m3u8
 #EXTINF:-14, Canal 49 Pixel Channel
 https://edge1o.live.opencaster.com/caster/dsHpssoaCzoa.m3u8
-v
+#EXTINF:-1,FOX SD_
+http://thex.tv:57999/juanlopez/juanlopez/385
 #EXTINF:-1,FOX ACTION FHD_
 http://thex.tv:57999/juanlopez/juanlopez/386
 #EXTINF:-1,FOX CLASSIC FHD_
@@ -58,9 +59,9 @@ http://thex.tv:57999/juanlopez/juanlopez/448
 http://thex.tv:57999/juanlopez/juanlopez/482
 #EXTINF:-1,WARNER FHD_
 http://thex.tv:57999/juanlopez/juanlopez/485
-#EXTINF:-1,ANIMAL PLANET  FHD/
-http://thex.tv:57999/juanlopez/juanlopez/542
-http://thex.tv:57999/juanlopez/juanlopez/545
+#EXTINF:-1,ANIMAL PLANET  SD/
+http://thex.tv:57999/juanlopez/juanlopez/544
+
 #EXTINF:-1,DISCOVERY CHANNEL SD/
 http://thex.tv:57999/juanlopez/juanlopez/547
 #EXTINF:-1,DISCOVERY HH HD/
